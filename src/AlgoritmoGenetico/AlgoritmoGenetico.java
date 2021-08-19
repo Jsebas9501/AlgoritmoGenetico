@@ -7,7 +7,6 @@ import java.math.RoundingMode;
 /**
  *
  * @author Jhon Sebastian Molina Arias
- * @author Mateo Gallego Chaverra 
  */
 public class AlgoritmoGenetico {
     
